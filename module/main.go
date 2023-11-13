@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/loicpetit/go-input-and-bundle/input"
-	"github.com/loicpetit/go-input-and-bundle/log"
+	"github.com/loicpetit/go-input-and-bundle/module/input"
+	"github.com/loicpetit/go-input-and-bundle/module/log"
 )
 
 func main() {
